@@ -29,6 +29,7 @@
 
 ### 2. Clarity — Base x402 research + chat
 - **Description**: Base mainnet x402 gateway for short research/verdict reports and OpenAI-compatible chat. Free discovery via `/.well-known/x402`; external Base USDC payers only.
+- **Docs**: https://flipperspectives-crypto.github.io/clarity-docs/
 - **Endpoint**: `https://desktop-o99r0sf.tail935fba.ts.net/v1/x402/report` (also `/v1/x402/chat/completions`)
 - **Discovery**: `https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402`
 - **Public card**: `https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899`
